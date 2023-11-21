@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/txCRM/static/css/main.dc4d6ff2.css",
+    "main.js": "/txCRM/static/js/main.048bb977.js",
+    "static/js/787.d4aba7ab.chunk.js": "/txCRM/static/js/787.d4aba7ab.chunk.js",
+    "static/media/purplelight.png": "/txCRM/static/media/purplelight.45768189f2c6caee2948.png",
+    "static/media/redlight.png": "/txCRM/static/media/redlight.2786038817970c648a45.png",
+    "static/media/iconSprite.svg": "/txCRM/static/media/iconSprite.b9e54fcd5658ddc213c9fcef1c560c74.svg",
+    "index.html": "/txCRM/index.html",
+    "main.dc4d6ff2.css.map": "/txCRM/static/css/main.dc4d6ff2.css.map",
+    "main.048bb977.js.map": "/txCRM/static/js/main.048bb977.js.map",
+    "787.d4aba7ab.chunk.js.map": "/txCRM/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc4d6ff2.css",
+    "static/js/main.048bb977.js"
+  ]
+}
